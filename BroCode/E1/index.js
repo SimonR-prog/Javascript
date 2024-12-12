@@ -1,4 +1,4 @@
-console.log('Hello');
+let age = 25;
 
 
-
+console.log(age);
